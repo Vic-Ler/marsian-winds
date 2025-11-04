@@ -22,7 +22,7 @@ Welcome to the repository accompanying my master's thesis, which explores method
 ## 🛠️ Technologies Used
 
 - Python (NumPy, SciPy, OpenCV, Matplotlib, etc.)
-- LaTeX (TeX Live distribution)
+- LaTeX 
 - Emirates Mars Mission UV data
 
 ---
